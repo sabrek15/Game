@@ -1,1 +1,3 @@
 # Game
+
+This code uses HTML to create the game interface, CSS to style the buttons, and JavaScript to create the game logic. The JavaScript function "play" is called when the user clicks on one of the buttons, and it uses Math.random() to randomly generate the computer's choice. The function uses if-else statements to determine the outcome of the game based on the user's choice and the computer's choice, and it uses the innerHTML property to update the result element with the outcome of the game.
