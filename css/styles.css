@@ -43,3 +43,7 @@ img {
     color: var(--primary-light);
     font-size: 20px;
 }
+
+a {
+    color: white;
+}
